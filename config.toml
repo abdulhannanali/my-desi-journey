@@ -1,0 +1,8 @@
+baseurl = "https://abdulhannanali.github.io/my-desi-journey"
+languageCode = "en-us"
+title = "My open source journey"
+author = "Hannan Ali"
+copyright = "Site Licensed under GNU GPL V3.0"
+canonifyurls = true
+
+
